@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # About Me:
-Hey! I'm an Informatics student passionate about game development 🎮 and AI 🤖. I build games with Unity and Godot using C++ and GDScript. Currently learning machine learning to level up my AI skills, and learning more about unity game engine. I enjoy solving problems, creating games, and programming.
+Hey! I'm an Informatics student passionate about game development 🎮 and AI 🤖. I build games with Unity and Godot using C# and GDScript. Currently learning machine learning to level up my AI skills, and learning more about unity game engine. I enjoy solving problems, creating games, and programming.
 
 ---
 
